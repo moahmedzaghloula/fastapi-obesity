@@ -1,0 +1,601 @@
+Gender,Age,Height,Weight,BMI,BMI Category
+Male,64,189,97,27.15,Overweight
+Female,59,165,39,14.33,Underweight
+Male,67,160,99,38.67,Obese
+Female,54,199,127,32.07,Obese
+Female,43,143,108,52.81,Obese
+Male,86,150,79,35.11,Obese
+Female,52,171,46,15.73,Underweight
+Female,75,171,43,14.71,Underweight
+Male,80,147,38,17.59,Underweight
+Female,80,163,53,19.95,Healthy Weight
+Female,52,177,42,13.41,Underweight
+Female,90,167,99,35.5,Obese
+Female,54,141,36,18.11,Underweight
+Female,62,182,43,12.98,Underweight
+Female,29,190,126,34.9,Obese
+Male,31,146,117,54.89,Obese
+Male,51,186,107,30.93,Obese
+Male,63,185,35,10.23,Underweight
+Male,40,172,83,28.06,Overweight
+Male,55,141,124,62.37,Obese
+Female,73,169,45,15.76,Underweight
+Male,57,171,114,38.99,Obese
+Female,89,200,73,18.25,Underweight
+Female,69,146,43,20.17,Healthy Weight
+Female,51,196,45,11.71,Underweight
+Female,72,174,66,21.8,Healthy Weight
+Male,39,197,41,10.56,Underweight
+Female,30,170,61,21.11,Healthy Weight
+Female,73,200,60,15.0,Underweight
+Male,65,200,63,15.75,Underweight
+Female,36,147,72,33.32,Obese
+Female,21,185,63,18.41,Underweight
+Female,70,179,81,25.28,Overweight
+Male,31,187,98,28.02,Overweight
+Female,28,181,49,14.96,Underweight
+Female,22,142,73,36.2,Obese
+Male,61,183,48,14.33,Underweight
+Female,66,165,40,14.69,Underweight
+Female,42,153,83,35.46,Obese
+Female,76,160,61,23.83,Healthy Weight
+Male,43,157,62,25.15,Overweight
+Female,78,184,60,17.72,Underweight
+Female,32,172,62,20.96,Healthy Weight
+Male,48,144,127,61.25,Obese
+Female,45,190,53,14.68,Underweight
+Female,51,163,37,13.93,Underweight
+Male,57,160,43,16.8,Underweight
+Female,81,159,46,18.2,Underweight
+Male,57,150,120,53.33,Obese
+Female,51,181,78,23.81,Healthy Weight
+Female,83,199,76,19.19,Healthy Weight
+Female,65,163,100,37.64,Obese
+Female,60,172,86,29.07,Overweight
+Male,32,188,80,22.63,Healthy Weight
+Male,79,185,83,24.25,Healthy Weight
+Male,74,152,44,19.04,Healthy Weight
+Male,65,179,88,27.46,Overweight
+Male,82,166,93,33.75,Obese
+Male,18,174,40,13.21,Underweight
+Female,90,193,45,12.08,Underweight
+Male,25,170,48,16.61,Underweight
+Female,54,148,87,39.72,Obese
+Female,47,190,108,29.92,Overweight
+Male,19,156,119,48.9,Obese
+Female,57,197,80,20.61,Healthy Weight
+Female,62,152,68,29.43,Overweight
+Female,50,199,71,17.93,Underweight
+Female,62,178,93,29.35,Overweight
+Male,32,143,39,19.07,Healthy Weight
+Male,19,145,78,37.1,Obese
+Male,36,171,83,28.38,Overweight
+Female,39,197,69,17.78,Underweight
+Male,48,169,83,29.06,Overweight
+Female,65,166,51,18.51,Healthy Weight
+Female,63,200,129,32.25,Obese
+Female,60,148,101,46.11,Obese
+Female,49,174,77,25.43,Overweight
+Male,82,198,35,8.93,Underweight
+Female,58,152,79,34.19,Obese
+Male,30,183,54,16.12,Underweight
+Female,75,194,38,10.1,Underweight
+Male,85,184,74,21.86,Healthy Weight
+Female,52,149,128,57.66,Obese
+Male,73,195,43,11.31,Underweight
+Male,86,171,78,26.67,Overweight
+Female,85,190,72,19.94,Healthy Weight
+Female,89,172,38,12.84,Underweight
+Male,69,155,87,36.21,Obese
+Female,42,169,91,31.86,Obese
+Female,88,157,99,40.16,Obese
+Male,35,157,121,49.09,Obese
+Female,34,179,65,20.29,Healthy Weight
+Female,60,143,120,58.68,Obese
+Male,40,147,73,33.78,Obese
+Male,80,159,93,36.79,Obese
+Female,87,197,129,33.24,Obese
+Male,34,146,126,59.11,Obese
+Male,30,196,95,24.73,Healthy Weight
+Male,66,167,98,35.14,Obese
+Female,71,182,63,19.02,Healthy Weight
+Male,81,180,72,22.22,Healthy Weight
+Male,89,157,51,20.69,Healthy Weight
+Female,24,189,50,14.0,Underweight
+Male,78,185,124,36.23,Obese
+Female,53,182,100,30.19,Obese
+Male,48,176,71,22.92,Healthy Weight
+Female,42,172,96,32.45,Obese
+Male,76,163,80,30.11,Obese
+Male,30,156,85,34.93,Obese
+Female,71,187,99,28.31,Overweight
+Male,79,187,56,16.01,Underweight
+Male,87,183,106,31.65,Obese
+Male,48,148,81,36.98,Obese
+Female,44,159,36,14.24,Underweight
+Male,65,144,52,25.08,Overweight
+Female,67,160,98,38.28,Obese
+Male,70,184,121,35.74,Obese
+Female,31,183,60,17.92,Underweight
+Male,84,157,108,43.82,Obese
+Male,39,179,126,39.32,Obese
+Male,85,148,98,44.74,Obese
+Male,43,172,124,41.91,Obese
+Female,24,162,94,35.82,Obese
+Female,82,161,71,27.39,Overweight
+Female,73,142,41,20.33,Healthy Weight
+Male,58,159,87,34.41,Obese
+Female,45,171,65,22.23,Healthy Weight
+Male,78,177,56,17.87,Underweight
+Male,62,184,96,28.36,Overweight
+Female,60,174,54,17.84,Underweight
+Male,76,157,130,52.74,Obese
+Male,30,199,123,31.06,Obese
+Male,67,154,44,18.55,Healthy Weight
+Male,85,195,111,29.19,Overweight
+Male,56,165,66,24.24,Healthy Weight
+Male,75,181,86,26.25,Overweight
+Female,18,144,115,55.46,Obese
+Male,22,184,124,36.63,Obese
+Female,72,199,42,10.61,Underweight
+Male,29,144,122,58.83,Obese
+Female,71,158,110,44.06,Obese
+Male,59,175,99,32.33,Obese
+Female,36,199,72,18.18,Underweight
+Female,58,163,46,17.31,Underweight
+Female,86,190,126,34.9,Obese
+Female,59,154,114,48.07,Obese
+Male,42,182,127,38.34,Obese
+Male,36,143,67,32.76,Obese
+Female,50,178,122,38.51,Obese
+Male,59,140,60,30.61,Obese
+Female,59,197,67,17.26,Underweight
+Male,53,178,125,39.45,Obese
+Female,20,189,99,27.71,Overweight
+Male,79,159,69,27.29,Overweight
+Male,52,197,74,19.07,Healthy Weight
+Female,35,183,75,22.4,Healthy Weight
+Female,57,185,49,14.32,Underweight
+Female,53,166,70,25.4,Overweight
+Male,74,195,99,26.04,Overweight
+Female,57,176,108,34.87,Obese
+Female,68,187,66,18.87,Healthy Weight
+Male,61,194,102,27.1,Overweight
+Male,36,193,98,26.31,Overweight
+Female,52,141,93,46.78,Obese
+Male,83,163,94,35.38,Obese
+Female,43,192,117,31.74,Obese
+Female,45,181,71,21.67,Healthy Weight
+Female,82,157,125,50.71,Obese
+Male,50,158,37,14.82,Underweight
+Male,87,198,60,15.3,Underweight
+Male,65,174,51,16.85,Underweight
+Female,53,187,86,24.59,Healthy Weight
+Female,52,176,106,34.22,Obese
+Female,69,191,37,10.14,Underweight
+Female,79,185,116,33.89,Obese
+Male,39,150,36,16.0,Underweight
+Female,31,196,123,32.02,Obese
+Male,76,186,53,15.32,Underweight
+Female,27,173,64,21.38,Healthy Weight
+Female,31,185,106,30.97,Obese
+Male,65,171,117,40.01,Obese
+Female,36,193,101,27.11,Overweight
+Female,50,150,119,52.89,Obese
+Female,30,153,101,43.15,Obese
+Male,32,154,94,39.64,Obese
+Male,27,198,48,12.24,Underweight
+Female,50,158,87,34.85,Obese
+Female,77,171,89,30.44,Obese
+Female,77,157,58,23.53,Healthy Weight
+Male,78,158,39,15.62,Underweight
+Female,62,141,46,23.14,Healthy Weight
+Female,85,148,73,33.33,Obese
+Male,57,189,74,20.72,Healthy Weight
+Female,80,169,61,21.36,Healthy Weight
+Male,81,153,94,40.16,Obese
+Female,83,178,103,32.51,Obese
+Male,65,140,111,56.63,Obese
+Male,62,147,121,56.0,Obese
+Female,86,143,72,35.21,Obese
+Male,53,178,116,36.61,Obese
+Male,52,192,95,25.77,Overweight
+Male,24,173,58,19.38,Healthy Weight
+Male,31,177,90,28.73,Overweight
+Male,75,189,95,26.6,Overweight
+Female,87,156,109,44.79,Obese
+Male,19,187,122,34.89,Obese
+Female,32,173,120,40.09,Obese
+Female,21,162,123,46.87,Obese
+Female,25,187,110,31.46,Obese
+Female,27,155,88,36.63,Obese
+Male,66,194,96,25.51,Overweight
+Female,86,175,129,42.12,Obese
+Male,32,149,65,29.28,Overweight
+Male,29,141,69,34.71,Obese
+Male,66,171,51,17.44,Underweight
+Male,77,195,97,25.51,Overweight
+Male,49,199,89,22.47,Healthy Weight
+Male,60,183,69,20.6,Healthy Weight
+Male,23,188,114,32.25,Obese
+Male,21,172,89,30.08,Obese
+Male,71,175,123,40.16,Obese
+Male,77,182,40,12.08,Underweight
+Female,44,158,64,25.64,Overweight
+Female,23,171,129,44.12,Obese
+Female,19,142,60,29.76,Overweight
+Female,69,182,108,32.6,Obese
+Male,84,198,71,18.11,Underweight
+Female,46,198,91,23.21,Healthy Weight
+Male,52,191,80,21.93,Healthy Weight
+Female,54,159,117,46.28,Obese
+Female,81,167,37,13.27,Underweight
+Female,79,176,45,14.53,Underweight
+Male,25,163,50,18.82,Healthy Weight
+Male,33,144,71,34.24,Obese
+Female,76,177,77,24.58,Healthy Weight
+Male,47,158,96,38.46,Obese
+Male,71,184,92,27.17,Overweight
+Female,61,171,59,20.18,Healthy Weight
+Male,86,157,118,47.87,Obese
+Female,82,177,102,32.56,Obese
+Female,47,199,97,24.49,Healthy Weight
+Female,25,171,126,43.09,Obese
+Female,57,175,90,29.39,Overweight
+Female,25,148,125,57.07,Obese
+Male,65,143,79,38.63,Obese
+Male,78,150,49,21.78,Healthy Weight
+Male,70,146,107,50.2,Obese
+Male,23,143,93,45.48,Obese
+Female,50,162,78,29.72,Overweight
+Male,86,195,69,18.15,Underweight
+Male,85,148,95,43.37,Obese
+Female,49,181,128,39.07,Obese
+Male,60,159,120,47.47,Obese
+Male,35,199,98,24.75,Healthy Weight
+Male,69,191,71,19.46,Healthy Weight
+Female,52,193,111,29.8,Overweight
+Male,51,197,76,19.58,Healthy Weight
+Female,69,160,77,30.08,Obese
+Female,65,164,55,20.45,Healthy Weight
+Female,51,153,45,19.22,Healthy Weight
+Male,59,198,100,25.51,Overweight
+Male,49,156,66,27.12,Overweight
+Female,45,180,105,32.41,Obese
+Male,67,198,79,20.15,Healthy Weight
+Male,38,182,42,12.68,Underweight
+Male,80,158,63,25.24,Overweight
+Female,41,196,115,29.94,Overweight
+Male,21,186,76,21.97,Healthy Weight
+Female,64,174,119,39.31,Obese
+Female,24,150,62,27.56,Overweight
+Female,76,191,116,31.8,Obese
+Male,40,143,42,20.54,Healthy Weight
+Female,54,152,128,55.4,Obese
+Male,77,152,101,43.72,Obese
+Male,31,156,39,16.03,Underweight
+Female,88,180,78,24.07,Healthy Weight
+Female,50,154,119,50.18,Obese
+Male,56,158,55,22.03,Healthy Weight
+Male,66,197,121,31.18,Obese
+Male,69,162,61,23.24,Healthy Weight
+Male,83,180,96,29.63,Overweight
+Male,78,195,40,10.52,Underweight
+Female,80,171,95,32.49,Obese
+Male,75,168,58,20.55,Healthy Weight
+Male,80,156,58,23.83,Healthy Weight
+Female,87,159,100,39.56,Obese
+Male,21,177,113,36.07,Obese
+Male,21,149,38,17.12,Underweight
+Female,55,150,87,38.67,Obese
+Male,71,179,85,26.53,Overweight
+Female,47,200,42,10.5,Underweight
+Female,40,195,116,30.51,Obese
+Male,84,167,70,25.1,Overweight
+Female,37,185,112,32.72,Obese
+Male,53,168,89,31.53,Obese
+Male,52,151,82,35.96,Obese
+Male,31,157,123,49.9,Obese
+Female,75,197,56,14.43,Underweight
+Male,23,176,130,41.97,Obese
+Female,60,178,50,15.78,Underweight
+Female,35,146,127,59.58,Obese
+Female,64,172,53,17.92,Underweight
+Female,27,154,52,21.93,Healthy Weight
+Female,63,175,77,25.14,Overweight
+Female,64,192,90,24.41,Healthy Weight
+Female,75,155,82,34.13,Obese
+Female,32,195,113,29.72,Overweight
+Male,85,196,58,15.1,Underweight
+Male,64,176,43,13.88,Underweight
+Female,88,195,56,14.73,Underweight
+Female,90,173,70,23.39,Healthy Weight
+Male,69,182,48,14.49,Underweight
+Male,89,180,114,35.19,Obese
+Female,66,174,111,36.66,Obese
+Male,21,163,116,43.66,Obese
+Female,33,179,109,34.02,Obese
+Female,25,178,69,21.78,Healthy Weight
+Male,76,153,91,38.87,Obese
+Female,77,172,114,38.53,Obese
+Male,30,140,112,57.14,Obese
+Female,51,176,128,41.32,Obese
+Male,35,170,42,14.53,Underweight
+Male,36,148,62,28.31,Overweight
+Female,46,178,84,26.51,Overweight
+Female,43,175,87,28.41,Overweight
+Female,22,145,85,40.43,Obese
+Male,26,187,58,16.59,Underweight
+Female,90,186,76,21.97,Healthy Weight
+Male,81,198,91,23.21,Healthy Weight
+Female,47,147,59,27.3,Overweight
+Female,53,162,126,48.01,Obese
+Female,60,160,78,30.47,Obese
+Male,39,189,36,10.08,Underweight
+Male,49,194,106,28.16,Overweight
+Female,55,175,117,38.2,Obese
+Male,37,189,86,24.08,Healthy Weight
+Female,59,173,60,20.05,Healthy Weight
+Female,30,140,73,37.24,Obese
+Female,20,164,117,43.5,Obese
+Male,68,171,71,24.28,Healthy Weight
+Female,65,166,38,13.79,Underweight
+Female,77,176,56,18.08,Underweight
+Male,46,186,75,21.68,Healthy Weight
+Male,89,156,74,30.41,Obese
+Female,57,156,80,32.87,Obese
+Female,78,171,62,21.2,Healthy Weight
+Male,48,157,129,52.33,Obese
+Male,54,190,104,28.81,Overweight
+Male,65,144,41,19.77,Healthy Weight
+Male,25,168,103,36.49,Obese
+Female,60,166,82,29.76,Overweight
+Male,85,179,49,15.29,Underweight
+Male,65,146,125,58.64,Obese
+Female,28,154,55,23.19,Healthy Weight
+Male,25,162,81,30.86,Obese
+Male,18,149,52,23.42,Healthy Weight
+Male,27,165,81,29.75,Overweight
+Male,66,180,42,12.96,Underweight
+Male,42,170,68,23.53,Healthy Weight
+Female,29,158,65,26.04,Overweight
+Female,34,148,110,50.22,Obese
+Female,45,152,86,37.22,Obese
+Male,84,198,91,23.21,Healthy Weight
+Female,90,163,86,32.37,Obese
+Male,33,142,72,35.71,Obese
+Male,33,150,37,16.44,Underweight
+Female,85,156,77,31.64,Obese
+Male,56,152,47,20.34,Healthy Weight
+Male,43,144,105,50.64,Obese
+Male,78,185,59,17.24,Underweight
+Female,24,176,78,25.18,Overweight
+Male,65,159,53,20.96,Healthy Weight
+Female,62,161,45,17.36,Underweight
+Female,40,162,52,19.81,Healthy Weight
+Male,63,193,51,13.69,Underweight
+Female,78,200,130,32.5,Obese
+Female,73,188,50,14.15,Underweight
+Male,27,180,123,37.96,Obese
+Male,51,180,99,30.56,Obese
+Female,24,161,90,34.72,Obese
+Male,49,160,111,43.36,Obese
+Female,84,199,122,30.81,Obese
+Male,24,175,122,39.84,Obese
+Male,77,200,69,17.25,Underweight
+Female,68,196,62,16.14,Underweight
+Female,74,165,63,23.14,Healthy Weight
+Female,88,157,74,30.02,Obese
+Male,35,153,121,51.69,Obese
+Female,90,199,95,23.99,Healthy Weight
+Female,43,178,105,33.14,Obese
+Male,46,153,54,23.07,Healthy Weight
+Female,29,150,109,48.44,Obese
+Male,62,150,53,23.56,Healthy Weight
+Female,62,197,115,29.63,Overweight
+Female,61,168,52,18.42,Underweight
+Female,23,158,83,33.25,Obese
+Male,33,155,87,36.21,Obese
+Male,52,163,68,25.59,Overweight
+Female,21,177,118,37.66,Obese
+Male,46,147,130,60.16,Obese
+Male,25,155,58,24.14,Healthy Weight
+Male,59,194,66,17.54,Underweight
+Male,32,160,36,14.06,Underweight
+Female,20,173,130,43.44,Obese
+Male,50,181,62,18.92,Healthy Weight
+Male,63,174,63,20.81,Healthy Weight
+Female,23,155,129,53.69,Obese
+Female,52,157,36,14.61,Underweight
+Male,59,186,44,12.72,Underweight
+Male,19,145,70,33.29,Obese
+Male,80,160,54,21.09,Healthy Weight
+Female,20,179,65,20.29,Healthy Weight
+Male,73,174,52,17.18,Underweight
+Female,77,142,107,53.06,Obese
+Female,68,142,114,56.54,Obese
+Male,31,152,107,46.31,Obese
+Female,41,174,79,26.09,Overweight
+Male,59,153,122,52.12,Obese
+Male,47,187,62,17.73,Underweight
+Male,63,166,97,35.2,Obese
+Male,78,194,100,26.57,Overweight
+Female,18,149,128,57.66,Obese
+Female,25,186,73,21.1,Healthy Weight
+Female,37,199,123,31.06,Obese
+Male,55,179,89,27.78,Overweight
+Female,82,154,71,29.94,Overweight
+Male,87,166,70,25.4,Overweight
+Male,18,143,45,22.01,Healthy Weight
+Male,20,144,57,27.49,Overweight
+Female,59,176,100,32.28,Obese
+Female,85,195,55,14.46,Underweight
+Male,80,168,91,32.24,Obese
+Male,57,172,49,16.56,Underweight
+Male,49,159,115,45.49,Obese
+Female,82,197,43,11.08,Underweight
+Male,78,195,123,32.35,Obese
+Female,78,157,62,25.15,Overweight
+Female,62,183,48,14.33,Underweight
+Male,28,152,43,18.61,Healthy Weight
+Male,29,171,61,20.86,Healthy Weight
+Male,37,185,125,36.52,Obese
+Male,86,157,84,34.08,Obese
+Male,39,161,58,22.38,Healthy Weight
+Male,43,190,115,31.86,Obese
+Male,38,150,129,57.33,Obese
+Female,64,191,46,12.61,Underweight
+Male,85,184,58,17.13,Underweight
+Female,46,150,84,37.33,Obese
+Female,18,194,99,26.3,Overweight
+Male,55,189,70,19.6,Healthy Weight
+Female,76,193,123,33.02,Obese
+Male,46,167,37,13.27,Underweight
+Female,37,153,60,25.63,Overweight
+Male,32,170,42,14.53,Underweight
+Female,76,186,56,16.19,Underweight
+Female,36,192,76,20.62,Healthy Weight
+Male,47,199,56,14.14,Underweight
+Male,39,175,128,41.8,Obese
+Female,25,158,75,30.04,Obese
+Female,50,197,50,12.88,Underweight
+Female,67,147,47,21.75,Healthy Weight
+Male,21,197,101,26.02,Overweight
+Female,45,153,51,21.79,Healthy Weight
+Male,69,175,88,28.73,Overweight
+Male,36,162,38,14.48,Underweight
+Male,58,191,67,18.37,Underweight
+Male,49,200,87,21.75,Healthy Weight
+Male,68,183,36,10.75,Underweight
+Female,76,180,58,17.9,Underweight
+Male,78,192,102,27.67,Overweight
+Female,58,193,49,13.15,Underweight
+Male,25,200,65,16.25,Underweight
+Male,46,177,78,24.9,Healthy Weight
+Female,49,191,69,18.91,Healthy Weight
+Female,68,178,77,24.3,Healthy Weight
+Male,60,155,67,27.89,Overweight
+Female,56,150,89,39.56,Obese
+Female,72,143,81,39.61,Obese
+Male,85,160,52,20.31,Healthy Weight
+Female,24,184,36,10.63,Underweight
+Male,72,162,128,48.77,Obese
+Female,82,146,63,29.56,Overweight
+Male,77,198,86,21.94,Healthy Weight
+Female,58,178,120,37.87,Obese
+Female,38,188,85,24.05,Healthy Weight
+Male,50,163,62,23.34,Healthy Weight
+Male,83,156,48,19.72,Healthy Weight
+Male,70,190,90,24.93,Healthy Weight
+Female,70,163,111,41.78,Obese
+Female,37,166,130,47.18,Obese
+Female,40,157,65,26.37,Overweight
+Male,58,176,102,32.93,Obese
+Female,34,174,84,27.74,Overweight
+Male,34,173,125,41.77,Obese
+Male,26,153,103,44.0,Obese
+Female,46,199,83,20.96,Healthy Weight
+Male,72,144,85,40.99,Obese
+Male,28,167,67,24.02,Healthy Weight
+Female,69,156,128,52.6,Obese
+Male,73,145,81,38.53,Obese
+Female,49,200,97,24.25,Healthy Weight
+Male,37,197,124,31.95,Obese
+Female,48,157,48,19.47,Healthy Weight
+Male,47,165,52,19.1,Healthy Weight
+Male,81,163,67,25.22,Overweight
+Female,33,145,104,49.46,Obese
+Male,19,194,100,26.57,Overweight
+Male,54,166,86,31.21,Obese
+Female,29,141,118,59.35,Obese
+Female,78,179,104,32.46,Obese
+Male,80,190,65,18.01,Underweight
+Male,31,193,85,22.82,Healthy Weight
+Male,44,170,66,22.84,Healthy Weight
+Male,41,153,72,30.76,Obese
+Male,79,174,39,12.88,Underweight
+Female,26,200,68,17.0,Underweight
+Male,85,140,108,55.1,Obese
+Male,43,142,117,58.02,Obese
+Male,45,144,46,22.18,Healthy Weight
+Female,40,161,40,15.43,Underweight
+Female,72,185,130,37.98,Obese
+Female,20,176,106,34.22,Obese
+Female,36,178,103,32.51,Obese
+Male,59,162,41,15.62,Underweight
+Male,18,150,81,36.0,Obese
+Male,79,193,114,30.6,Obese
+Female,36,193,97,26.04,Overweight
+Female,58,166,102,37.02,Obese
+Female,44,161,128,49.38,Obese
+Male,50,156,96,39.45,Obese
+Male,45,171,54,18.47,Underweight
+Female,90,159,121,47.86,Obese
+Male,74,194,99,26.3,Overweight
+Male,34,168,46,16.3,Underweight
+Female,49,167,61,21.87,Healthy Weight
+Male,40,171,91,31.12,Obese
+Female,23,168,96,34.01,Obese
+Female,89,145,62,29.49,Overweight
+Female,70,192,71,19.26,Healthy Weight
+Female,45,194,93,24.71,Healthy Weight
+Male,80,179,123,38.39,Obese
+Female,51,158,115,46.07,Obese
+Female,28,194,96,25.51,Overweight
+Male,75,172,96,32.45,Obese
+Male,74,171,41,14.02,Underweight
+Female,30,178,96,30.3,Obese
+Female,85,170,41,14.19,Underweight
+Female,86,166,106,38.47,Obese
+Female,52,142,106,52.57,Obese
+Male,73,165,68,24.98,Healthy Weight
+Male,58,200,126,31.5,Obese
+Male,70,194,49,13.02,Underweight
+Female,55,164,118,43.87,Obese
+Female,46,146,86,40.35,Obese
+Female,59,145,73,34.72,Obese
+Male,64,153,52,22.21,Healthy Weight
+Male,45,196,123,32.02,Obese
+Female,77,161,81,31.25,Obese
+Male,45,155,108,44.95,Obese
+Female,57,155,101,42.04,Obese
+Female,21,156,53,21.78,Healthy Weight
+Female,80,182,129,38.94,Obese
+Female,76,157,123,49.9,Obese
+Male,73,193,53,14.23,Underweight
+Female,59,188,85,24.05,Healthy Weight
+Male,53,155,101,42.04,Obese
+Male,42,199,67,16.92,Underweight
+Male,74,198,116,29.59,Overweight
+Male,85,144,73,35.2,Obese
+Male,86,155,73,30.39,Obese
+Male,24,200,101,25.25,Overweight
+Female,21,162,60,22.86,Healthy Weight
+Female,90,144,73,35.2,Obese
+Female,54,149,87,39.19,Obese
+Male,35,196,56,14.58,Underweight
+Female,77,149,63,28.38,Overweight
+Female,28,188,84,23.77,Healthy Weight
+Female,63,157,114,46.25,Obese
+Female,62,190,79,21.88,Healthy Weight
+Female,24,154,104,43.85,Obese
+Male,60,199,119,30.05,Obese
+Female,75,181,48,14.65,Underweight
+Male,61,178,102,32.19,Obese
+Female,45,142,57,28.27,Overweight
+Female,77,145,126,59.93,Obese
+Female,52,176,40,12.91,Underweight
+Male,20,160,75,29.3,Overweight
+Female,79,195,85,22.35,Healthy Weight
+Female,50,189,101,28.27,Overweight
+Male,33,164,92,34.21,Obese
+Female,38,161,82,31.63,Obese
+Female,75,189,108,30.23,Obese
+Male,26,152,39,16.88,Underweight
+Male,39,141,118,59.35,Obese
+Female,64,180,115,35.49,Obese
+Male,59,182,70,21.13,Healthy Weight
+Female,88,170,99,34.26,Obese
+Male,46,189,50,14.0,Underweight
+Male,27,154,73,30.78,Obese
+Male,42,200,100,25.0,Overweight
