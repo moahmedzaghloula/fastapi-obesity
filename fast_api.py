@@ -1,11 +1,23 @@
-from fastapi import FastAPI, Form
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 import joblib
 import uvicorn
 
 app = FastAPI()
+
+# Load the model
 model = joblib.load('obesity.pkl')
+
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+    allow_origins=['*']
+)
 
 class UserInput(BaseModel):
     gender: int
@@ -24,4 +36,4 @@ async def predict(user_input: UserInput):
     return JSONResponse(content={"prediction": prediction[0]})
 
 if __name__ == '__main__':
-    uvicorn.run(app, port=5012)
+    uvicorn.run(app, host="0.0.0.0", port=5012)
